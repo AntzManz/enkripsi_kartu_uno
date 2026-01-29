@@ -8,7 +8,7 @@ Proyek ini merupakan porting dari versi Python/Streamlit ke React.js, yang memun
 
 ## ✨ Fitur Utama
 
-### 1. 🏠 Halaman User (Enkripsi)
+#### 1. 🏠 Halaman User (Enkripsi)
 
 Algoritma UnoCipher: Logika enkripsi unik menggunakan grid karakter 3 baris dengan Key Offset dinamis.
 
@@ -16,9 +16,9 @@ Enkripsi Instan: Cukup masukkan Key, Shift, dan Plain Text untuk mendapatkan kod
 
 Auto-History: Hasil enkripsi otomatis tersimpan ke memori lokal browser tanpa perlu login.
 
----
 
-### 2. ⚙️ Halaman Admin (Dashboard)
+
+#### 2. ⚙️ Halaman Admin (Dashboard)
 
 Secure Access: Area admin terlindungi password sederhana (Default: admin123).
 
@@ -32,9 +32,9 @@ Delete: Hapus data per baris.
 
 Reset DB: Hapus total seluruh database lokal.
 
----
 
-### 3. 💾 Client-Side Storage
+
+#### 3. 💾 Client-Side Storage
 
 Tanpa Database Server: Menggunakan API LocalStorage browser.
 
