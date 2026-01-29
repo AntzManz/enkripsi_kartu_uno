@@ -168,7 +168,6 @@ if page == "🏠 Enkripsi (User)":
             st.toast("Data disimpan ke database.", icon="✅")
 
     st.divider()
-    st.caption("Dibuat oleh Ananta Ramadhani - 24.83.1062")
 
 # ================= HALAMAN ADMIN (CRUD) =================
 elif page == "⚙️ Admin Database":
