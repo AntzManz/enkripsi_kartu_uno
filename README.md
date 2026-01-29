@@ -56,32 +56,6 @@ Storage: Browser LocalStorage API
 
 ---
 
-### 🚀 Cara Instalasi & Menjalankan
-
-Ikuti langkah-langkah ini untuk menjalankan proyek di komputer lokal Anda:
-
-1. Clone Repository
-
-git clone [https://github.com/username-anda/nama-repo-anda.git](https://github.com/username-anda/nama-repo-anda.git)
-cd nama-repo-anda
-
-
-2. Install Dependencies
-
-Pastikan Node.js sudah terinstall, lalu jalankan:
-
-npm install
-
-
-3. Jalankan Development Server
-
-npm run dev
-
-
-Buka browser dan akses alamat yang muncul di terminal (biasanya http://localhost:5173).
-
----
-
 ### 📖 Logika Algoritma (UnoCipher)
 
 Algoritma ini bekerja dengan langkah berikut:
