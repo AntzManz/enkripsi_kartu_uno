@@ -87,9 +87,13 @@ Password: admin123
 Dibuat dengan ❤️ oleh :
 
 ANANTA RAMADHANI :            24.83.1062
+
 AISYAH NUR MAYA SILVIYANI :   24.83.1068 
+
 NABILAH JIHAN ROSYIDAH :      24.83.1069
+
 AVISA DEVA RASENDRIYA :       24.83.1089
+
 
  Universitas AMIKOM Yogyakarta
 
