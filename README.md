@@ -98,10 +98,13 @@ Buat Pull Request.
 
 ### 👨‍💻 Author
 
-Dibuat dengan ❤️ oleh Ananta Ramadhani
+Dibuat dengan ❤️ oleh :
 
-NIM: 24.83.1062
+ANANTA RAMADHANI :            24.83.1062
+AISYAH NUR MAYA SILVIYANI :   24.83.1068 
+NABILAH JIHAN ROSYIDAH :      24.83.1069
+AVISA DEVA RASENDRIYA :       24.83.1089
 
-Institusi: Universitas AMIKOM Yogyakarta
+ Universitas AMIKOM Yogyakarta
 
 Catatan: Aplikasi ini menggunakan LocalStorage. Membersihkan cache browser akan menghapus riwayat data enkripsi.
