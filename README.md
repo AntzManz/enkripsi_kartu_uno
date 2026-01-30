@@ -80,21 +80,7 @@ Password: admin123
 
 ---
 
-### 🤝 Kontribusi
 
-Kontribusi sangat terbuka! Jika Anda ingin memperbaiki bug atau menambahkan fitur:
-
-Fork repository ini.
-
-Buat branch fitur baru (git checkout -b fitur-baru).
-
-Commit perubahan Anda (git commit -m 'Menambahkan fitur baru').
-
-Push ke branch (git push origin fitur-baru).
-
-Buat Pull Request.
-
----
 
 ### 👨‍💻 Author
 
